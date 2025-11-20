@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(149, 184, 97);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: antiquewhite;
+}
+
+#principal{
+    text-align: center;
+    background-color: darkgreen;
+}
+
+h2{
+    color: brown;
+}
+
+.basico{
+    color: aqua;
+    font-weight: bolder;
+}
+.intermediario{
+    color: rgb(107, 138, 45);
+}
+.avancado{
+    color: blue;
+}
+.destaque{
+    background-color: brown;
+}
+
+
+/*
+    em HTML é id = em CSS é #
+    em HTML é class = em CSS é .
+*/    
